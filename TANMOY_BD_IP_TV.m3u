@@ -94,87 +94,21 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Kids",Maasranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jR0yNb/Durunto-Tv.png" group-title="Bangladeshi",দুরন্ত Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jR0yNb/Durunto-Tv.png" group-title="Kids",দুরন্ত Tv
 http://103.70.140.27:8080/hls/duronto.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rYhcIby.png" group-title="Kids", Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/chunklist_w17713575.m3u8?nimblesessionid=698278622
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4MNpDTQ.png" group-title="Kids", Animax
 http://210.210.155.35/session/97087bc0-cdbe-11eb-93ed-8347abb92605/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dr0fILL.png" group-title="Kids", Aniplus
 http://210.210.155.35/session/a052d55e-cdbe-11eb-a072-b38e91e92175/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhPcW1d.png" group-title="Kids", Baby First
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Kids", Boomerang
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network Hindi
-https://wyjs.tk/index.php/http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMUiKL7.png" group-title="Kids", Cbeebies
-http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
-http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids Hindi
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney Hindi
-https://wyjs.tk/index.php/http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids", Disney English
-https://wyjs.tk/index.php/http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zttm0bq.png" group-title="Kids", Disney JR Hindi
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="Kids", Disney XD
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
-http://103.157.237.18:8000/play/132
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV (2)
-http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv Hindi
-http://103.153.39.34:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids", Hungama Tv 
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DXPWPi3.png" group-title="Kids", Marvel HQ
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DDsHkBv.png" group-title="Kids", Majed
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3 4K
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HibXka1.png" group-title="Kids", Mr Bean Show
-https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick
-http://180.210.191.2/hls/stream23.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick Ebox
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick Hindi
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior Hindi
-http://103.153.39.34:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nickelodeon Hindi
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rjX0TbW.png" group-title="Kids", Nick Toons
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rjX0TbW.png" group-title="Kids", Nick Toons (2)
 https://is.gd/8zhfGG
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo
-https://is.gd/dHmVKS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay
-http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Bangla
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay Hindi
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon (2)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u26ku9p.png" group-title="Kids", Wow Kids Hindi
