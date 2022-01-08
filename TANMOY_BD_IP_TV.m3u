@@ -47,23 +47,37 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",21.Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jR0yNb/Durunto-Tv.png" group-title="Bangladeshi", দুরন্ত Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jR0yNb/Durunto-Tv.png" group-title="Bangladeshi",22.দুরন্ত Tv
 http://103.70.140.27:8080/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qk7Mkd2/T-Sports.png" group-title="Bangladeshi", Tsports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qk7Mkd2/T-Sports.png" group-title="Bangladeshi",23.Tsports HD
 http://208.86.19.21/905.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zS68gM5/SMaxHd.png" group-title="HINDI", SONY MAX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zS68gM5/SMaxHd.png" group-title="Indian",1.SONY MAX HD
 http://183.178.58.115:8027/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MGttMk6/Zee-Action.png" group-title="HINDI", ZEE ACTION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGttMk6/Zee-Action.png" group-title="Indian",2.ZEE ACTION
 http://208.86.19.21:80/728.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvrCyFw/ZeeTvHd.png" group-title="HINDI", ZEETV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvrCyFw/ZeeTvHd.png" group-title="Indian",3.ZEETV HD
 http://208.86.19.21:80/606.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q512XvG/Colors-Cineplex.png" group-title="HINDI", Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q512XvG/Colors-Cineplex.png" group-title="Indian", 4.Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8g3XyRb/ColorsHD.png" group-title="HINDI", Colors HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g3XyRb/ColorsHD.png" group-title="Indian",5.Colors HD
 http://208.86.19.21:80/605.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4PL01zj/Star-Plas-HD.png" group-title="HINDI", StarPlus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4PL01zj/Star-Plas-HD.png" group-title="Indian",6.StarPlus HD
 http://208.86.19.21:80/607.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Indian", 7.Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="Indian",8.Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Indian",9.Dabang TV
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",1.9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Music",2.9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
+#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg",3.Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
