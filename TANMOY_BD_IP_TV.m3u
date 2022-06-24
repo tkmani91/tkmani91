@@ -47,7 +47,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tv.ebox.live:8081/thunderbd/50/chunks.m3u8?nimblesessionid=30306651&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MDY6MjUgUE0maGFzaF92YWx1ZT1Mem5Mc0ZldnZycjlGOE9pd21MWFVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Bangladeshi",Duronto TV
-
+http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=30307693&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MjE6MTkgUE0maGFzaF92YWx1ZT1SUTBNWDB5Y1d6cWh2NjhiUnByTmNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/pogo.jpg" group-title="Kids", Pogo
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",Ekushey TV
 http://tv.ebox.live:8081/thunderbd/65/chunks.m3u8?nimblesessionid=30306833&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MDk6MTYgUE0maGFzaF92YWx1ZT04S3ZGSkplbVd0Zm40Y2VzWElYTk1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",Sangsad TV
@@ -78,7 +79,7 @@ http://tv.ebox.live:8081/thunderbd/76/chunks.m3u8?nimblesessionid=30308406&wmsAu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGttMk6/Zee-Action.png" group-title="Indian",ZEE ACTION
 http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvrCyFw/ZeeTvHd.png" group-title="Indian",ZEETV HD
-http://208.86.19.21:80/606.stream/index.m3u8
+http://tv.ebox.live:8081/thunderbd/40/chunks.m3u8?nimblesessionid=30308853&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6Mzg6MTcgUE0maGFzaF92YWx1ZT1tbEs5S2QyUFc4ejlMdGN5Uy8zL1lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q512XvG/Colors-Cineplex.png" group-title="Indian", Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g3XyRb/ColorsHD.png" group-title="Indian",Colors HD
