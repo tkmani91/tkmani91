@@ -17,15 +17,17 @@ http://103.55.144.46/hls/sunbangla.m3u8
 http://103.55.144.46/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.theindependentbd.com/assets/news_images/rsz_47420.jpg" group-title="NEWS", independent News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=30307186&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTM6NDggUE0maGFzaF92YWx1ZT1ETjgyTmFIVFRNVlgvckF3Mk9rK1l3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/5/chunks.m3u8?nimblesessionid=30307220&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTQ6MTEgUE0maGFzaF92YWx1ZT1TbXlSTW1UVGl1UnFWN3BkRk5EUk1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="NEWS",ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/49/chunks.m3u8?nimblesessionid=30307249&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTQ6MzQgUE0maGFzaF92YWx1ZT16ZHBqNFlQaU95Ym96TkE2NStWSTFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",News 24
-http://tv.ebox.live:8081/thunderbd/18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDY6NTI6MjMgUE0maGFzaF92YWx1ZT1BUThPQmxqTWtudlluTGxmRE1qcmpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=30307262&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTQ6NTYgUE0maGFzaF92YWx1ZT0xU1dBb1Z4WVMwZldYVXNScEYzNUVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="NEWS",DBC News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/7/chunks.m3u8?nimblesessionid=30307292&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTU6MjYgUE0maGFzaF92YWx1ZT11YWV3cWJzcGlyT1crV29TWG1NQWxnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV
+http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDY6NDk6NTkgUE0maGFzaF92YWx1ZT04YThHZE91ajk0WXM0OFBrYlFENG9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi",Anando TV
 http://tv.ebox.live:8081/thunderbd/16/chunks.m3u8?nimblesessionid=30306273&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MDE6MzEgUE0maGFzaF92YWx1ZT1BOWZqODAwdi80SnZ1VVNOQXNxbWVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -50,8 +52,7 @@ http://tv.ebox.live:8081/thunderbd/50/chunks.m3u8?nimblesessionid=30306651&wmsAu
 http://tv.ebox.live:8081/thunderbd/65/chunks.m3u8?nimblesessionid=30306833&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MDk6MTYgUE0maGFzaF92YWx1ZT04S3ZGSkplbVd0Zm40Y2VzWElYTk1RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",Somoy TV
-http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDY6NDk6NTkgUE0maGFzaF92YWx1ZT04YThHZE91ajk0WXM0OFBrYlFENG9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi",Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
 
