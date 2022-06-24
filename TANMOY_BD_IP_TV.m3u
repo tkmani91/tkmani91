@@ -60,7 +60,7 @@ http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qk7Mkd2/T-Sports.png" group-title="Sports",Tsports HD
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjxzrfn/GTVBangladesh.png" group-title="Sports",G TV [GAZI TV]
-http://103.55.144.46/hls/Gazi-TV.m3u8
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=30309162&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6NDI6MzggUE0maGFzaF92YWx1ZT1vVnJEeFR2eG1nMU5pVzd5YSszTG13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/utvaction.jpg" group-title="Indian",UTV ACTON
 http://103.55.144.46/hls/utvaction.m3u8
