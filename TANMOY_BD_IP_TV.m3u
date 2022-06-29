@@ -1,16 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kfCLgY/Star-Jalsa-N.png" group-title="INDAN BABGLA", Star জলসা HD
 http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kfCLgY/Star-Jalsa-N.png" group-title="INDAN BABGLA", Star জলসা HD
-http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjtmGbx/Star-Jalsa-Movies.png" group-title="INDAN BABGLA", জলসা  Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnBfhNC/Zee-Bangla.png" group-title="INDAN BABGLA", ZEE বাংলা 
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/colorsbangla.jpg" group-title="INDAN BABGLA", COLORS বাংলা HD
 http://103.55.144.46/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/colorsbangla.jpg" group-title="INDAN BABGLA", COLORS বাংলা HD
-http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/sunbangla.jpg" group-title="INDAN BABGLA", SUN বাংলা
 http://103.55.144.46/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="INDAN BABGLA", SONY আট
