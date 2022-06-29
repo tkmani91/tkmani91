@@ -68,18 +68,20 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg" group-title="HINDI",SONY MAX HD
 http://103.55.144.46/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/200px-SET_India_logo.svg.png" group-title="HINDI",SONY TELEVISION
-http://tv.ebox.live:8081/thunderbd/38/chunks.m3u8?nimblesessionid=30308515&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MzI6MzggUE0maGFzaF92YWx1ZT1yQVhLTjF0b0FRUE5ydnFvL1hudEZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/sonyen.png" group-title="HINDI",SONY TELEVISION
+http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884751550798675968/ephAG_WX_400x400.jpg" group-title="HINDI",SONY SAB
 http://tv.ebox.live:8081/thunderbd/36/chunks.m3u8?nimblesessionid=30308590&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MzQ6MDYgUE0maGFzaF92YWx1ZT05czE3eDRnVUlhMXFacHVOTCtJNUNnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeecinemahd.jpg" group-title="HINDI",ZEECENAMA HD
-http://tv.ebox.live:8081/thunderbd/76/chunks.m3u8?nimblesessionid=30308406&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MzE6MDggUE0maGFzaF92YWx1ZT1aSnhpdUlxSTI0K2VWajkzUXhLbjJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGttMk6/Zee-Action.png" group-title="HINDI",ZEE ACTION
 http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvrCyFw/ZeeTvHd.png" group-title="HINDI",ZEETV HD
-http://tv.ebox.live:8081/thunderbd/40/chunks.m3u8?nimblesessionid=30308853&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6Mzg6MTcgUE0maGFzaF92YWx1ZT1tbEs5S2QyUFc4ejlMdGN5Uy8zL1lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q512XvG/Colors-Cineplex.png" group-title="HINDI", Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/andpictures-hd.jpg" group-title="HINDI", ANDPICTURES HD
+http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g3XyRb/ColorsHD.png" group-title="HINDI",Colors HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4PL01zj/Star-Plas-HD.png" group-title="HINDI",StarPlus HD
@@ -91,8 +93,12 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="HINDI",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",9XM
+#EXTINF:0 tvg-logo="http://103.55.144.46/img/zoom.jpg" group-title="MUSIC",ZOOM
+http://103.55.144.46/hls/zoom.m3u8
+#EXTINF:0 tvg-logo="http://103.55.144.46/img/9xm.png" group-title="MUSIC",9XM
 http://103.55.144.46/hls/9xm.m3u8
+#EXTINF:0 tvg-logo="http://103.55.144.46/img/bindass.jpeg" group-title="MUSIC",BINDASS
+http://103.55.144.46/hls/bindass.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="MUSIC",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
 #EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg",Public Music
@@ -132,7 +138,7 @@ http://103.55.144.46/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/nick.jpg" group-title="Kids", NICK
 http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Kids", Cartoon Network
-http://tv.ebox.live:8081/thunderbd/79/chunks.m3u8?nimblesessionid=30305065&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDY6NDg6MDMgUE0maGFzaF92YWx1ZT12ZHpjRzV2c2VXVXJwT25WdEJrelR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DraJIkm.png" group-title="Kids", EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w920137870.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwNWCV5.png" group-title="Kids", MBC 3
@@ -141,5 +147,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="http://103.55.144.46/hls/dis-kid.m3u8" group-title="Kids", SONY YNY!
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dis-kid.png" group-title="Kids", SONY YNY!
 http://103.55.144.46/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dhin.jpg" group-title="Kids", DHIN
+http://103.55.144.46/hls/dhin.m3u8
