@@ -151,3 +151,6 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/dhin.jpg" group-title="Kids", DHIN
 http://103.55.144.46/hls/dhin.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dis-science.png" group-title="DOCUMENTARY", DIS-SCIENCE
+http://103.55.144.46/hls/dis-science.m3u8
