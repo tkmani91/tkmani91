@@ -3,17 +3,19 @@
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjtmGbx/Star-Jalsa-Movies.png" group-title="INDAN BABGLA", জলসা  Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HnBfhNC/Zee-Bangla.png" group-title="INDAN BABGLA", ZEE বাংলা 
-http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/colorsbangla.jpg" group-title="INDAN BABGLA", COLORS বাংলা HD
 http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1177528111530799105/F0ehJudm_400x400.jpg" group-title="INDAN BABGLA", COLORS বাংলা সিনেমা
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnBfhNC/Zee-Bangla.png" group-title="INDAN BABGLA", ZEE বাংলা 
+http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/sunbangla.jpg" group-title="INDAN BABGLA", SUN বাংলা
 http://103.55.144.46/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/Sony_Aath.png" group-title="INDAN BABGLA", SONY আট
 http://103.55.144.46/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.theindependentbd.com/assets/news_images/rsz_47420.jpg" group-title="NEWS", independent News
-http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=30307186&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTM6NDggUE0maGFzaF92YWx1ZT1ETjgyTmFIVFRNVlgvckF3Mk9rK1l3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/indepen.m3u8
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="NEWS",CHANNEL 24
 http://tv.ebox.live:8081/thunderbd/5/chunks.m3u8?nimblesessionid=30307220&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTQ6MTEgUE0maGFzaF92YWx1ZT1TbXlSTW1UVGl1UnFWN3BkRk5EUk1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="NEWS",ATN News
@@ -23,7 +25,7 @@ http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=30307262&wmsAu
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="NEWS",DBC News
 http://tv.ebox.live:8081/thunderbd/7/chunks.m3u8?nimblesessionid=30307292&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MTU6MjYgUE0maGFzaF92YWx1ZT11YWV3cWJzcGlyT1crV29TWG1NQWxnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV
-http://tv.ebox.live:8081/thunderbd/17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDY6NDk6NTkgUE0maGFzaF92YWx1ZT04YThHZE91ajk0WXM0OFBrYlFENG9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/somoy.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi",Anando TV
 http://tv.ebox.live:8081/thunderbd/16/chunks.m3u8?nimblesessionid=30306273&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6MDE6MzEgUE0maGFzaF92YWx1ZT1BOWZqODAwdi80SnZ1VVNOQXNxbWVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -58,7 +60,7 @@ http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qk7Mkd2/T-Sports.png" group-title="Sports",Tsports HD
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjxzrfn/GTVBangladesh.png" group-title="Sports",G TV [GAZI TV]
-http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=30309162&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDc6NDI6MzggUE0maGFzaF92YWx1ZT1vVnJEeFR2eG1nMU5pVzd5YSszTG13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/utvaction.jpg" group-title="Indian",UTV ACTON
 http://103.55.144.46/hls/utvaction.m3u8
