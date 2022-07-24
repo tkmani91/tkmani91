@@ -210,4 +210,8 @@ http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/tlc.jpeg" group-title="ENGLISH", TLC HD
 http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mnx-hd.jpg" group-title="ENGLISH", MNX HD
-hthttp://103.55.144.46/hls/mnx-hd.m3u8
+http://103.55.144.46/hls/mnx-hd.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://103.106.238.74/Admin/main/images/tt8178634/poster/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="Bollywood Movie", RRR (2022)
+http://103.106.238.74/Data4/Movies/Hollywood/2022/RRR%20Hindi%20(2022)/RRR.Hindi.2022.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mp4
